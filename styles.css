@@ -6,3 +6,23 @@
 	color: white;
 	padding: 10px;
 }
+
+#container{
+	display: flex;
+}
+
+.latest-news-section{
+	background-color: white;
+	height: 5px:
+/* 	text-align: center; */
+	flex: 1;
+
+}
+
+.main-section{
+	flex: 2;
+}
+
+.pictorial-news-section{
+	flex: 1;
+}
